@@ -29,6 +29,6 @@ pip install yotta
 ## yotta install procedure broken with pip v10
 https://github.com/carlosperate/microbit-dev-env/issues/5
 
-Please you can use this workaround below (by  carlosperate committed) - executing install_yotta.sh
+Please you can use this workaround below (by [carlosperate](https://github.com/carlosperate) committed) and executing install_yotta.sh
 https://github.com/carlosperate/microbit-dev-env/commit/5e23b5ed5486a0da44224b49b998df7b0918d950
 
